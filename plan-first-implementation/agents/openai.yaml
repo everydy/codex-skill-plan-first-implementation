@@ -1,0 +1,6 @@
+interface:
+  display_name: "플랜 퍼스트"
+  short_description: "플랜 퍼스트 구현, 계획 먼저, 문서 먼저 구현"
+  icon_small: "../assets/plan-first-implementation-small.png"
+  icon_large: "../assets/plan-first-implementation.png"
+  default_prompt: "$plan-first-implementation을 사용해서 플랜 퍼스트 기준으로 코드베이스를 먼저 읽고, 근거 있는 한국어 계획 문서를 먼저 만든 다음에만 구현으로 넘어가줘. 가능하면 rg/fd/yq/just로 근거와 검증 표면을 먼저 잠가줘."
